@@ -19,6 +19,8 @@ This project presents a comprehensive data analysis of an e-commerce store using
 ## Dashboard Preview
 
 ### Can be viewed as dashboard.png file in the main branch of this repository.
+![dashboard](https://github.com/user-attachments/assets/0cd84a0f-a450-4a30-8c75-2d21a8a97395)
+
 ## How to Use
 
 1. Download the `E-COMMERCE SALES ANALYSIS.pbix` file.
